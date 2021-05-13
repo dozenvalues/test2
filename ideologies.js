@@ -993,7 +993,7 @@ ideologies = [
         "name": "Liberal Socialism",
         "stats": {
             "b1": 65,
-            "b2": 55,
+            "b2": 45,
             "b3": 55,
             "b4": 80,
             "b5": 85,
