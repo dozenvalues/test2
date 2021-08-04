@@ -286,7 +286,7 @@ questions = [
         }
     },
     {
-        "question": "Gay marriage should be legal",
+        "question": "Gay marriage should be legal.",
         "effect": {
             "b1": 0,
             "b2": 0,
@@ -605,7 +605,7 @@ questions = [
         }
     },
     {
-        "question": "Power corrupts, and absolute power corrupts absolutely",
+        "question": "Power corrupts, and absolute power corrupts absolutely.",
         "effect": {
             "b1": 0,
             "b2": 0,
